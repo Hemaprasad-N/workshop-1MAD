@@ -4,12 +4,12 @@ WORKSHOP: Develop an android application pass the data between the activities us
 
 To create a two screens , first screen will take name, age, contact number and email id from user. After click on submit button, second screen will open and it should display result using Explicit Intents.
 
-EQUIPMENTS REQUIRED:
-```
+# EQUIPMENTS REQUIRED:
+
 Latest Version Android Studio
-```
-ALGORITHM:
-```
+
+# ALGORITHM:
+
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “workshop″ and click Next.
@@ -23,13 +23,13 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
-```
-PROGRAM:
-```
+
+# PROGRAM:
+
 Program to print the text “ExplicitIntent”.
 Developed by: HEMAPRASAD N
 Registeration Number : 212222040054
-```
+
 MainActivity.java:
 ```
 package com.example.workshop;
@@ -265,7 +265,7 @@ Output:
 
 
 
-Result:
-```
+# Result:
+
 Thus a Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
-```
+
